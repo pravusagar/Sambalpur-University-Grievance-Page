@@ -1,5 +1,7 @@
 # Sambalpur University Grievance Page
 
+I designed the front end of a grivance page for the company's ([All India Online Pvt. Ltd.](https://allindiaonline.in)) client ([Sambalpur University](https://www.suniv.ac.in/)).
+
 Welcome to the Sambalpur University Grievance Page project repository! This web application serves as an interactive platform for students to submit and track grievances within Sambalpur University.
 
 ## Features
